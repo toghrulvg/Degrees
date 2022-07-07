@@ -1,0 +1,14 @@
+C:\Users\Resad\source\repos\Degrees\Degrees\bin\Debug\netcoreapp3.1\Degrees.exe
+C:\Users\Resad\source\repos\Degrees\Degrees\bin\Debug\netcoreapp3.1\Degrees.deps.json
+C:\Users\Resad\source\repos\Degrees\Degrees\bin\Debug\netcoreapp3.1\Degrees.runtimeconfig.json
+C:\Users\Resad\source\repos\Degrees\Degrees\bin\Debug\netcoreapp3.1\Degrees.runtimeconfig.dev.json
+C:\Users\Resad\source\repos\Degrees\Degrees\bin\Debug\netcoreapp3.1\Degrees.dll
+C:\Users\Resad\source\repos\Degrees\Degrees\bin\Debug\netcoreapp3.1\Degrees.pdb
+C:\Users\Resad\source\repos\Degrees\Degrees\obj\Debug\netcoreapp3.1\Degrees.csproj.AssemblyReference.cache
+C:\Users\Resad\source\repos\Degrees\Degrees\obj\Debug\netcoreapp3.1\Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resad\source\repos\Degrees\Degrees\obj\Debug\netcoreapp3.1\Degrees.AssemblyInfoInputs.cache
+C:\Users\Resad\source\repos\Degrees\Degrees\obj\Debug\netcoreapp3.1\Degrees.AssemblyInfo.cs
+C:\Users\Resad\source\repos\Degrees\Degrees\obj\Debug\netcoreapp3.1\Degrees.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\Degrees\Degrees\obj\Debug\netcoreapp3.1\Degrees.dll
+C:\Users\Resad\source\repos\Degrees\Degrees\obj\Debug\netcoreapp3.1\Degrees.pdb
+C:\Users\Resad\source\repos\Degrees\Degrees\obj\Debug\netcoreapp3.1\Degrees.genruntimeconfig.cache
